@@ -1,0 +1,3 @@
+This is sample file for testing of
+protocol if file sharing works correctly
+between sftp_client a and sftp_client b.
