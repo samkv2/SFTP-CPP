@@ -1,4 +1,4 @@
-![screenshot](sftp-1.png)
+![screenshot](sftp.png)
 
 # Secure File Transfer Protocol (SFTP-CPP) Instructions
 
@@ -13,7 +13,7 @@ This project implements a secure file transfer system using C++ and OpenSSL. It 
 
 1.  **Navigate to the project directory:**
     ```bash
-    cd /home/captain/Documents/AntiGravity/SFTP-CPP
+    cd /path/to/file/SFTP-CPP
     ```
 
 2.  **Generate SSL Certificates:**
